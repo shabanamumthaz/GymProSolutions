@@ -62,7 +62,7 @@ public class LabServiceUtility {
 		String startDate =scanner.nextLine();
 		LocalDate sDate = LocalDate.parse(startDate, formatter);
 		
-		if(sDate.equals(sDate))
+		//if(sDate.equals(sDate))
 		
 		
 		
